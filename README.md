@@ -1,5 +1,7 @@
 # Simple ORM
 
+[![Join the chat at https://gitter.im/thabart/SimpleOrm](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thabart/SimpleOrm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Build status on AppVeyor
 [![Build status](https://ci.appveyor.com/api/projects/status/usrcqqyotittcu9t?svg=true)](https://ci.appveyor.com/project/thabart/simpleorm)
 
